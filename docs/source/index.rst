@@ -20,3 +20,9 @@ Contents
 
    usage
    api
+
+Lumache has its documentation hosted on Read the Docs.
+
+haolinjiang.cem@gmail.com
+
+$$c_0 = 299792458.0$$
